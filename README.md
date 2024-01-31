@@ -2,11 +2,11 @@
 
 
 
-### [算法](https://github.com/sw-Hua/Job-Recommendation-System-Algorithm)
+### [查看算法项目](https://github.com/sw-Hua/Job-Recommendation-System-Algorithm)
 
 
 
-### [后端](https://github.com/sw-Hua/Job-Recommendation-System-Backend)
+### [查看后端项目](https://github.com/sw-Hua/Job-Recommendation-System-Backend)
 
 
 
