@@ -1,5 +1,15 @@
 # Job-Recommendation-System-Frontend
 
+
+
+### [算法](https://github.com/sw-Hua/Job-Recommendation-System-Algorithm)
+
+
+
+### [后端](https://github.com/sw-Hua/Job-Recommendation-System-Backend)
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
