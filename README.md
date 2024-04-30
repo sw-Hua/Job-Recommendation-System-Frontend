@@ -1,24 +1,20 @@
-# vue-tailwind-dashboard
+# Frontend for Recommendation System
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Related Information:
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### [Job Recommendation System Backend](https://github.com/sw-Hua/JobRecommendationSystemBackEnd)
+
+https://github.com/sw-Hua/JobRecommendationSystemBackEnd
+
+
+
+### [Job Recommendation System Fontend](https://github.com/sw-Hua/Job-Recommendation-System-Frontend)
+https://github.com/sw-Hua/Job-Recommendation-System-Frontend
+
+
+### [Job Recommendation System Algorithm](https://github.com/sw-Hua/Job-Recommendation-System-Algorithm/tree/main)
+https://github.com/sw-Hua/Job-Recommendation-System-Algorithm/tree/main
